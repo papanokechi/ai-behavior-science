@@ -20,13 +20,15 @@ The initial anchor document for this repository is:
 
 > **AI Behavior Science — Founding Territory Paper**
 
+**DOI:** [https://doi.org/10.5281/zenodo.19562751](https://doi.org/10.5281/zenodo.19562751)
+
+This DOI serves as the permanent, citable identifier for the founding paper.
+
 **Suggested citation**
 
 ```text
-Author(s). AI Behavior Science — Founding Territory Paper. ai-behavior-science repository, 2026.
+papanokechi. “AI Behavior Science — Founding Territory Paper.” Version 1.0. Zenodo (2026). https://doi.org/10.5281/zenodo.19562751
 ```
-
-A formal citation record will be added as the manuscript and publication metadata stabilize.
 
 ## Future Frameworks
 
